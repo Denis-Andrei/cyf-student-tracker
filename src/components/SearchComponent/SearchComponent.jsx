@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import React from 'react';
 import './searchcomponent.scss';
 
 export default function SearchComponent({getSearchedValAndFilterData}) {
